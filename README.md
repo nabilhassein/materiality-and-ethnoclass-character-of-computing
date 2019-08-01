@@ -3,7 +3,7 @@ SFPC Detroit
 Monday August 19th
 
 ## Abstract
-This class serves as a whirlwind introduction to the field of computing, from the teacher's perspective as a colonized subject who studied computer science and worked as a software developer for some years, before beginning to develop a more critical consciousness about the power dynamics embedded into technology. It is structured as a lecture,
+This class serves as a whirlwind introduction to the field of computing, from the teacher's perspective as a colonized subject who studied computer science and worked as a software developer for some years, before beginning to develop a more critical consciousness about the power dynamics embedded into technology.
 
 ## Class Agenda
 2 hr 30 min total, including 10 min of unallocated "flex time"
