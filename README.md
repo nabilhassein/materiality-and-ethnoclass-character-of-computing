@@ -12,6 +12,7 @@ We begin at 10,000 feet with a historical overview, move towards an exploration 
 
 ### Lecture
 40 min
+
 Slides: https://docs.google.com/presentation/d/14MsP5lrQKgWRn87_Yd7P_bVSP_5UaTO9qEGs3ME2YDo/edit#slide=id.g5e2397ce12_0_55
 
 The opening lecture attempts to situate computing in its broad social context with remarks on:
