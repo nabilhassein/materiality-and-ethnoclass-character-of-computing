@@ -36,7 +36,7 @@ Fundamental concepts introduced:
 - conditionals
 - loops
 - libraries
-
+- randomness
 
 ### Discussion
 30 min
